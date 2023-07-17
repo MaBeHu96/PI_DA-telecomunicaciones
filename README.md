@@ -29,8 +29,10 @@
   La reducción de la brecha digital en Argentina es un desafío crucial para garantizar la igualdad de oportunidades en el acceso a la información y el desarrollo socioeconómico de las personas. Los resultados y soluciones obtenidos en este proyecto no solo tendrán un impacto positivo a nivel local, sino que también podrán ser aplicables en otros países que enfrenten problemáticas similares en la industria de telecomunicaciones.
 
 ## KPIs (Indicadores Clave de Desempeño)
- 1. Porcentaje de personas que tienen televisión pero no disponen de acceso a Internet en Argentina.
-
+ 1. penetración de internet:  Este indicador te permite conocer el porcentaje de personas que tienen acceso a Internet en relación con la población total.
+La fórmula para calcular el KPI de penetración de Internet es la siguiente:
+ > Penetración de Internet (%) = (Número de personas con acceso a Internet / Población total) x 100
+ 
  2. Índice de alcance a Internet en cada provincia, representado mediante el mapa de calor.
 
  3. Número de denuncias y reclamos relacionados con servicios de Internet, telefonía fija, facturación y problemas técnicos, y su evolución a lo largo del tiempo.
