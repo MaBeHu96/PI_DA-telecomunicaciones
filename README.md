@@ -31,7 +31,7 @@
 ## KPIs (Indicadores Clave de Desempeño)
  1. penetración de internet:  Este indicador te permite conocer el porcentaje de personas que tienen acceso a Internet en relación con la población total.
 La fórmula para calcular el KPI de penetración de Internet es la siguiente:
- > Penetración de Internet (%) = (Número de personas con acceso a Internet / Población total) x 100
+   > Penetración de Internet (%) = (Número de personas con acceso a Internet / Población total) x 100
  
  2. Índice de alcance a Internet en cada provincia, representado mediante el mapa de calor.
 
