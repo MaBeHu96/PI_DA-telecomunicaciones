@@ -33,8 +33,10 @@
 La fórmula para calcular el KPI de penetración de Internet es la siguiente:
    > Penetración de Internet (%) = (Número de personas con acceso a Internet / Población total) x 100
  
- 2. Índice de alcance a Internet en cada provincia, representado mediante el mapa de calor.
-
- 3. Número de denuncias y reclamos relacionados con servicios de Internet, telefonía fija, facturación y problemas técnicos, y su evolución a lo largo del tiempo.
-
+ 2. Alcanze de internet por provincia: Índice de alcance a Internet en cada provincia, representado mediante el mapa de calor.
+La formula para calcular el KPI es;
+  >acceso de internet/  Nro.Habitantes x provincia  
+ 4. Promedio del costo de internet en las diferentes provincias.
+La formula para calcularlo es:
+  >promedio del costo MB / recuento provincias * proveedor 
 
